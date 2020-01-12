@@ -3,7 +3,7 @@
 
 Visual Studio 2019 C++ CLR project
 
-- App
+- LAVIS-Visualizer
   - MyForm.h
   - MyForm.cpp
 - Docs
