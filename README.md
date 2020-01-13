@@ -6,8 +6,7 @@ Visual Studio 2019 C++ CLR project
 - LAVIS-Visualizer
   - MyForm.h
   - MyForm.cpp
-- Docs
-  - Install Guide*
-  - User Guide*
+- Install Guide*
+- User Guide*
 
 *Currently only in Spanish.
