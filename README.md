@@ -10,4 +10,4 @@ Visual Studio 2019 C++ CLR project
   - Install Guide*
   - User Guide*
 
-*Currently not available documents.
+*Currently only in Spanish.
